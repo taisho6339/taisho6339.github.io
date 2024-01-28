@@ -10,3 +10,4 @@ indexexchange.com, 202092, RESELLER, 50b1c356f2c5c8fc
 video.unrulymedia.com, 5444561541445527220, RESELLER, 29bc7d05d309e1bc
 rhythmone.com, 5444561541445527220, RESELLER, a670c89d4a324e47
 xandr.com, 8449, RESELLER
+facebook.com, 275020190041453, DIRECT, c3e20eee3f780d68
